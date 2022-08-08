@@ -1,2 +1,2 @@
 # My-Jupyter-Notebook-on-IBM-Watson-Studio
-# please click above for assignment, thank you
+# please click above My Jupyter Notebook for assignment, thank you
